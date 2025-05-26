@@ -19,7 +19,7 @@ This project aims to build a predictive model that provides insights or recommen
   - Customer satisfaction
   - Purchase likelihood
   - Clothing category demand
-- 🔍 **Evaluation**: Compared model performance using metrics like accuracy, precision, recall, and F1-score.
+- 🔍 **Evaluation**: Compared model performance using metrics like accuracy, precision, recall, and many more
 
 ---
 
