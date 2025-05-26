@@ -1,4 +1,4 @@
-# women-cloth-reviews-prediction
+# women-cloth-reviews-prediction..
 # 👗 Women's Clothing Recommendation/Prediction Project
 
 This project aims to build a predictive model that provides insights or recommendations for women's clothing based on customer data, reviews, or purchase patterns. It leverages machine learning to enhance personalization, improve inventory planning, and increase customer satisfaction.
